@@ -10,3 +10,5 @@ SILVER
 -Like resources, and display Like counter 
 -CRUD a new resource for a particular technology (from third party)
 -CRUD a new resource using the app's built-in tutorial-maker page  
+
+Wireframe (for homepage): https://wireframe.cc/2FgKDu
