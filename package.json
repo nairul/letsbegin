@@ -1,0 +1,28 @@
+{
+  "name": "letsbegin",
+  "version": "1.0.0",
+  "description": "A Programmer Resource Aggregator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nairul/letsbegin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nairul/letsbegin/issues"
+  },
+  "homepage": "https://github.com/nairul/letsbegin#readme",
+  "dependencies": {
+    "angular-jwt": "^0.1.9",
+    "angular-lock": "^2.0.2",
+    "auth0-js": "^8.5.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.9.3"
+  }
+}
