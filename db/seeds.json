@@ -1,5 +1,12 @@
 [
-  {
-    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"
-  }
+    {
+    "name": "Mozilla Development Network CSS Reference",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
+    "imgUrl": "http://i.imgur.com/mjZDh4w.jpg"
+    },
+    {
+    "name": "Color Hex Color Codes",
+    "url": "http://www.color-hex.com/",
+    "imgUrl": "http://i.imgur.com/Bx6Iqy6.png"
+    }   
 ]

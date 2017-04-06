@@ -2,7 +2,9 @@ var mongoose  = require("mongoose");
 
 var ResourceSchema = new mongoose.Schema(
   {
-    url: String
+    name: String,
+    url: String,
+    imgUrl: String
   }
 );
 
