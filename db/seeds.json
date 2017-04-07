@@ -1,12 +1,62 @@
 [
     {
-    "name": "Mozilla Development Network CSS Reference",
+    "name": "CSS Reference",
+    "creator": "Mozilla Developer Network",
     "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
     "imgUrl": "http://i.imgur.com/mjZDh4w.jpg"
     },
     {
     "name": "Color Hex Color Codes",
+    "creator": "Color-Hex.com", 
     "url": "http://www.color-hex.com/",
     "imgUrl": "http://i.imgur.com/Bx6Iqy6.png"
-    }   
+    },
+    {
+    "name": "CSS Tutorial",
+    "creator": "W3schools.com",   
+    "url": "https://www.w3schools.com/css/",
+    "imgUrl": "http://i.imgur.com/1AFCEhU.png"
+    },
+    {
+    "name": "CSS Tutorial",
+    "creator": "KillerSites.com", 
+    "url": "http://www.csstutorial.net/",
+    "imgUrl": "http://i.imgur.com/Z3fMhUm.png"
+    },
+    {
+    "name": "CSS Tutorial",
+    "creator": "tutorialspoint",  
+    "url": "http://www.tutorialspoint.com/css/",
+    "imgUrl": "http://i.imgur.com/3SMjkJq.png"
+    },
+    {
+    "name": "CSS Beginner Tutorial",
+    "creator": "HTML Dog",    
+    "url": "http://www.htmldog.com/guides/css/beginner/",
+    "imgUrl": "http://i.imgur.com/4SsdkB7.png"
+    },
+    {
+    "name": "Learn HTML & CSS: Part 1",
+    "creator": "codeacademy", 
+    "url": "https://www.codecademy.com/learn/learn-html-css",
+    "imgUrl": "http://i.imgur.com/g0s2KZW.png"
+    },  
+    {
+    "name": "Learn CSS Layout",
+    "creator": "",    
+    "url": "http://learnlayout.com/",
+    "imgUrl": "http://i.imgur.com/ca2joyx.png"
+    },
+    {
+    "name": "Starting with HTML + CSS",
+    "creator": "W3",  
+    "url": "https://www.w3.org/Style/Examples/011/firstcss.en.html",
+    "imgUrl": "http://i.imgur.com/RhsXhUL.png"
+    },
+    {
+    "name": "CSS Tutorial",
+    "creator": "EchoEcho.com",    
+    "url": "http://www.echoecho.com/css.htm",
+    "imgUrl": "http://i.imgur.com/iKeEX4t.png"
+    }
 ]

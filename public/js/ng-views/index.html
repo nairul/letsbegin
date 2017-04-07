@@ -1,24 +1,15 @@
 <div id="wrapper">
   <div id="wrapper-top"> </div>
   <div id="left">
-    <h1>Let's Begin</h1>
+    <h1 style="text-align:center">Topics</h1>
     <ul class="menu">
-      <li>Topic</li>
-      <li> <a class="closed" href="#">About the Studio</a>
-        <ul class="sub-menu closed">
-          <li><a href="#">Item 1</a></li>
-          <li><a href="#">Item 2</a></li>
-          <li><a href="#">Item 3</a></li>
-        </ul>
-      </li>
-      <li> <a class="opened" href="#">Image Galleries</a>
-        <ul class="sub-menu">
-          <li><a class="active" href="#">4X4 Gallery</a></li>
-          <li><a href="#">Portrait Gallery</a></li>
-          <li><a href="slider-gallery.html">Slider Gallery</a></li>
-        </ul>
-      </li>
-      <li><a href="#">Contact</a></li>
+      <li><a href="#">Angular</a></li>
+      <li><a href="#">Javascript</a></li>
+      <li><a href="#">HTML</a></li>
+      <li><a href="#">CSS</a></li>
+      <li><a href="#">Ruby</a></li>
+      <li><a href="#">Python</a></li>
+      <li><a href="#">Rails</a></li>
     </ul>
     <div id="left-bottom">
       <div class="social"> <span>Social:</span>
@@ -48,10 +39,11 @@
   </div>
   <div id="right">
     <ul class="thumbnails">
-      <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb1.jpg" alt="" width="150" height="121" /></a></li>
-      <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb2.jpg" alt="" width="150" height="121" /></a></li>
-      <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb3.jpg" alt="" width="150" height="121" /></a></li>
-      <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb4.jpg" alt="" width="150" height="121" /></a></li>
+      <li data-ng-repeat="resource in vm.resources" style="width:150px; height:121px; padding-bottom:25px">
+      <h2 style="text-align:center"><a href="{{resource.url}}" target="_blank">{{resource.name}}</a>
+      <a href="{{resource.url}}" target="_blank" rel="prettyPhoto[gallery]"><img src="{{resource.imgUrl}}" alt="{{resource.name}}" width="150" height="121" /></a></h2>
+      </li>
+      <!-- <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb4.jpg" alt="" width="150" height="121" /></a></li>
       <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb5.jpg" alt="" width="150" height="121" /></a></li>
       <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb6.jpg" alt="" width="150" height="121" /></a></li>
       <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb7.jpg" alt="" width="150" height="121" /></a></li>
@@ -63,7 +55,7 @@
       <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb13.jpg" alt="" width="150" height="121" /></a></li>
       <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb14.jpg" alt="" width="150" height="121" /></a></li>
       <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb15.jpg" alt="" width="150" height="121"/></a></li>
-      <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb16.jpg" alt="" width="150" height="121" /></a></li>
+      <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb16.jpg" alt="" width="150" height="121" /></a></li> -->
     </ul>
     <div class="navigation"> <a href="#" class="prev">Previous</a> <a href="#" class="next">Next</a> </div>
   </div>

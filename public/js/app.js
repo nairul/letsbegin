@@ -18,7 +18,8 @@ angular
        $sceDelegateProvider.resourceUrlWhitelist([
     'self',
     'https://www.youtube.com/**',
-    'https://developer.mozilla.org/**'
+    'https://developer.mozilla.org/**',
+    'http://www.color-hex.com/**'
     ]);
     lockProvider.init({
       clientID: 'asKlYQz5evgkrfIcNzfCGfygYx12P5zM',
