@@ -12,6 +12,14 @@
       <li><a href="#">Rails</a></li>
     </ul>
     <div id="left-bottom">
+    <div class="social">
+      <div ng-if="!isAuthenticated">
+      <a href="javascript:;" ng-click="vm.authService.login()"><span>Log In</span></a>
+      </div>
+      <div ng-if="isAuthenticated">
+      <a href="javascript:;" ng-click="vm.authService.logout()"><span>Log out</span></a>
+      </div>
+    </div>
       <div class="social"> <span>Social:</span>
         <ul>
           <li><a class="tumblr" href="#">tumblr</a></li>
