@@ -47,9 +47,11 @@
   </div>
   <div id="right">
     <ul class="thumbnails">
-      <li data-ng-repeat="resource in vm.resources" style="width:150px; height:121px; padding-bottom:25px">
+      <li data-ng-repeat="resource in vm.resources" style="width:150px; height:121px; padding-bottom:50px">
       <h2 style="text-align:center"><a href="{{resource.url}}" target="_blank">{{resource.name}}</a>
       <a href="{{resource.url}}" target="_blank" rel="prettyPhoto[gallery]"><img src="{{resource.imgUrl}}" alt="{{resource.name}}" width="150" height="121" /></a></h2>
+      <a style="text-align:center"><span>{{resource.creator}}</span></a>
+
       </li>
       <!-- <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb4.jpg" alt="" width="150" height="121" /></a></li>
       <li><a href="images/500X500.gif" rel="prettyPhoto[gallery]"><img src="images/gallery/thumb5.jpg" alt="" width="150" height="121" /></a></li>

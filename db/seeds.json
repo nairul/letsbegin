@@ -43,7 +43,7 @@
     },  
     {
     "name": "Learn CSS Layout",
-    "creator": "",    
+    "creator": "CSS Layout",    
     "url": "http://learnlayout.com/",
     "imgUrl": "http://i.imgur.com/ca2joyx.png"
     },
@@ -58,5 +58,23 @@
     "creator": "EchoEcho.com",    
     "url": "http://www.echoecho.com/css.htm",
     "imgUrl": "http://i.imgur.com/iKeEX4t.png"
-    }
+    },
+    {
+    "name": "JavaScript Tutorial",
+    "creator": "W3 Schools",    
+    "url": "https://www.w3schools.com/js/",
+    "imgUrl": "http://i.imgur.com/nGx70Ql.png"
+    },
+    {
+    "name": "JavaScript Tutorial",
+    "creator": "TutorialsPoint",    
+    "url": "http://www.tutorialspoint.com/javascript/",
+    "imgUrl": "http://i.imgur.com/39kzYIG.png"
+    },  
+    {
+    "name": "JavaScript basics",
+    "creator": "Mozilla Development Network",    
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    }  
 ]
