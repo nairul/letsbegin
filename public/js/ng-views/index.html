@@ -35,7 +35,7 @@
         <form action="#" method="get">
           <fieldset>
             <div class="left">
-              <input type="text" value="" />
+              <input ng-model="searchText" type="text" value="" />
             </div>
             <div class="right">
               <input type="submit" value="" />
@@ -47,7 +47,7 @@
   </div>
   <div id="right">
     <ul class="thumbnails">
-      <li data-ng-repeat="resource in vm.resources" style="width:150px; height:121px; padding-bottom:50px">
+      <li data-ng-repeat="resource in vm.resources | filter:searchText"  style="width:150px; height:121px; padding-bottom:50px">
       <h2 style="text-align:center"><a href="{{resource.url}}" target="_blank">{{resource.name}}</a>
       <a href="{{resource.url}}" target="_blank" rel="prettyPhoto[gallery]"><img src="{{resource.imgUrl}}" alt="{{resource.name}}" width="150" height="121" /></a></h2>
       <a style="text-align:center"><span>{{resource.creator}}</span></a>
