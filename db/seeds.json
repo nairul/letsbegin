@@ -3,120 +3,140 @@
     "name": "CSS Reference",
     "creator": "Mozilla Developer Network",
     "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
-    "imgUrl": "http://i.imgur.com/mjZDh4w.jpg"
+    "imgUrl": "http://i.imgur.com/mjZDh4w.jpg",
+    "topic": "CSS"
     },
     {
     "name": "Color Hex Color Codes",
     "creator": "Color-Hex.com", 
     "url": "http://www.color-hex.com/",
-    "imgUrl": "http://i.imgur.com/Bx6Iqy6.png"
+    "imgUrl": "http://i.imgur.com/Bx6Iqy6.png",
+    "topic": "CSS"
     },
     {
     "name": "CSS Tutorial",
     "creator": "W3schools.com",   
     "url": "https://www.w3schools.com/css/",
-    "imgUrl": "http://i.imgur.com/1AFCEhU.png"
+    "imgUrl": "http://i.imgur.com/1AFCEhU.png",
+    "topic": "CSS"
     },
     {
     "name": "CSS Tutorial",
     "creator": "KillerSites.com", 
     "url": "http://www.csstutorial.net/",
-    "imgUrl": "http://i.imgur.com/Z3fMhUm.png"
+    "imgUrl": "http://i.imgur.com/Z3fMhUm.png",
+    "topic": "CSS"
     },
     {
     "name": "CSS Tutorial",
     "creator": "tutorialspoint",  
     "url": "http://www.tutorialspoint.com/css/",
-    "imgUrl": "http://i.imgur.com/3SMjkJq.png"
+    "imgUrl": "http://i.imgur.com/3SMjkJq.png",
+    "topic": "CSS"
     },
     {
     "name": "CSS Beginner Tutorial",
     "creator": "HTML Dog",    
     "url": "http://www.htmldog.com/guides/css/beginner/",
-    "imgUrl": "http://i.imgur.com/4SsdkB7.png"
+    "imgUrl": "http://i.imgur.com/4SsdkB7.png",
+    "topic": "CSS"
     },
     {
     "name": "Learn HTML & CSS: Part 1",
     "creator": "codeacademy", 
     "url": "https://www.codecademy.com/learn/learn-html-css",
-    "imgUrl": "http://i.imgur.com/g0s2KZW.png"
+    "imgUrl": "http://i.imgur.com/g0s2KZW.png",
+    "topic": "CSS"
     },  
     {
     "name": "Learn CSS Layout",
     "creator": "CSS Layout",    
     "url": "http://learnlayout.com/",
-    "imgUrl": "http://i.imgur.com/ca2joyx.png"
+    "imgUrl": "http://i.imgur.com/ca2joyx.png",
+    "topic": "CSS"
     },
     {
     "name": "Starting with HTML + CSS",
     "creator": "W3",  
     "url": "https://www.w3.org/Style/Examples/011/firstcss.en.html",
-    "imgUrl": "http://i.imgur.com/RhsXhUL.png"
+    "imgUrl": "http://i.imgur.com/RhsXhUL.png",
+    "topic": "CSS"
     },
     {
     "name": "CSS Tutorial",
     "creator": "EchoEcho.com",    
     "url": "http://www.echoecho.com/css.htm",
-    "imgUrl": "http://i.imgur.com/iKeEX4t.png"
+    "imgUrl": "http://i.imgur.com/iKeEX4t.png",
+    "topic": "CSS"
     },
     {
     "name": "JavaScript Tutorial",
     "creator": "W3 Schools",    
     "url": "https://www.w3schools.com/js/",
-    "imgUrl": "http://i.imgur.com/nGx70Ql.png"
+    "imgUrl": "http://i.imgur.com/nGx70Ql.png",
+    "topic": "Javascript"
     },
     {
     "name": "JavaScript Tutorial",
     "creator": "TutorialsPoint",    
     "url": "http://www.tutorialspoint.com/javascript/",
-    "imgUrl": "http://i.imgur.com/39kzYIG.png"
+    "imgUrl": "http://i.imgur.com/39kzYIG.png",
+    "topic": "Javascript"
     },  
     {
     "name": "JavaScript basics",
     "creator": "Mozilla Development Network",    
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png",
+    "topic": "Javascript"
     },  
     {
     "name": "Angular basics",
     "creator": "Mozilla Development Network",    
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png",
+    "topic": "Angular"
     },
     {
     "name": "Jquery basics",
     "creator": "Mozilla Development Network",    
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png",
+    "topic": "Jquery"
     },
     {
     "name": "Rails basics",
     "creator": "Mozilla Development Network",    
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png",
+    "topic": "Rails"
     },
     {
     "name": "Ruby basics",
     "creator": "Mozilla Development Network",    
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png",
+    "topic": "Ruby"
     },
     {
     "name": "Python basics",
     "creator": "Mozilla Development Network",    
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png",
+    "topic": "Python"
     },
     {
-    "name": "PHPs basics",
+    "name": "PHP basics",
     "creator": "Mozilla Development Network",    
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png",
+    "topic": "PHP"
     },
     {
     "name": "C# basics",
     "creator": "Mozilla Development Network",    
     "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-    "imgUrl": "http://i.imgur.com/iJN2bWt.png"
+    "imgUrl": "http://i.imgur.com/iJN2bWt.png",
+    "topic": "C#"
     }
 ]
