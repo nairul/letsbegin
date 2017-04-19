@@ -11,6 +11,6 @@ var ResourceSchema = new mongoose.Schema(
 );
 
 mongoose.model("Resource", ResourceSchema);
-mongoose.connect("mongodb://localhost/letsbegin");
+mongoose.connect(process.env.MONGOLAB_URI || "mongodb://localhost/letsbegin");
 
 module.exports = mongoose;
